@@ -1,0 +1,47 @@
+
+
+.jumbotron{
+    padding-top: 6rem;
+    margin-bottom: 0;
+
+}
+svg{
+    margin-top:0px;
+    padding: 0;
+    position: relative;
+    bottom: 5px;
+}
+path{
+    margin: 0;
+    padding: 0;
+}
+#about{
+
+    padding-top: 4px;
+    margin-top: 0;
+    border: none;
+    color: white;
+    min-height: 800px;
+}
+
+.card{
+    min-height: 430px;
+}
+
+.btn{
+    border: 2px solid #152b43;
+    color: #152b43;
+}
+.btn:hover{
+    background-color: #152b43;
+    color: white;
+}
+
+#contact-me{
+    background-color: #152b43;
+    color: white;
+}
+
+section{
+    padding-top: 10rem;
+}
