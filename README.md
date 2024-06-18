@@ -24,7 +24,7 @@ Saya juga menulis artikel di blog saya. Beberapa artikel terbaru:
 
 Jika Anda ingin berbicara dengan saya atau memiliki pertanyaan, jangan ragu untuk menghubungi saya:
 
-- Email: [email@domain.com](mailto:muhammatsaria026@student.unsrat.ac.id)
+- Email: [muhammatsaria026@student.unsrat.ac.id](mailto:muhammatsaria026@student.unsrat.ac.id)
 - LinkedIn: [riski saria](https://www.linkedin.com/in/riski-saria-585a41257/)
 - Situs Web: [www.rizkysaria.nerlify.app](https://www.rizkysaria.nerlify.app)
 
