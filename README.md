@@ -26,6 +26,6 @@ Jika Anda ingin berbicara dengan saya atau memiliki pertanyaan, jangan ragu untu
 
 - Email: [muhammatsaria026@student.unsrat.ac.id](mailto:muhammatsaria026@student.unsrat.ac.id)
 - LinkedIn: [riski saria](https://www.linkedin.com/in/riski-saria-585a41257/)
-- Situs Web: [www.rizkysaria.netlify.app](https://www.rizkysaria.netlify.app)
+- Situs Web: [https://rizkysaria.netlify.app](https://www.rizkysaria.netlify.app)
 
 Terima kasih telah mengunjungi Personal Site saya! 🚀
